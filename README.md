@@ -23,7 +23,7 @@
 - CSS3 + Bootstrap 5  
 - JavaScript (ES6)  
 - أيقونات Font Awesome  
-
+---
 # 📑 Bookmark Manager
 
 A simple and clean **Bookmark Management App** built using **HTML, CSS (Bootstrap)**, and **JavaScript**.  
