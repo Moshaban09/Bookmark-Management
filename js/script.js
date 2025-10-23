@@ -89,8 +89,8 @@ function addBookmark() {
 function displayBookmarks() {
   if (bookmarks.length === 0) {
     bookmarkContainer.innerHTML = `
-      <div class="text-center py-4 text-secondary">
-        <div class="d-inline-flex flex-column align-items-center justify-content-center p-5" style="max-width: 350px;">
+      <div class="text-center py-5 text-secondary">
+        <div class="d-inline-flex flex-column align-items-center justify-content-center p-4" style="max-width: 400px;">
           <i class="fa-regular fa-bookmark fa-3x mb-3 text-primary"></i>
           <h5 class="fw-semibold mb-2">No bookmarks yet</h5>
           <p class="mb-0 small text-muted">Add your first bookmark to get started!</p>
